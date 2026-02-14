@@ -7,6 +7,17 @@ Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Pyt
 🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
 
 ---
+[1[blog](
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>)](www.linkedin.com/in/
+allan-celestino-958458298
+)
+
+
+
+
+
+---
 # 📊 Estatísticas
 
 <svg fill="none" viewBox="0 0 400 300" width="400" height="300" xmlns="http://www.w3.org/2000/svg">
