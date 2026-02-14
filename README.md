@@ -3,63 +3,53 @@
 # 👨‍💻 Allan Celestino
 
 ```bash
-> status: online 🟢
-> class: backend developer in progress ☕
-> focus: java • poo • dados • sistemas
+> Status: Em evolução
+> Class: Back-End Developer
+> Focus: Java | Dados | Sistemas
 ```
 
-🚀 em evolução constante, construindo minha base no desenvolvimento back-end
-
-💡 focado em lógica, programação orientada a objetos e construção de sistemas reais
-
-☕ transformando café em código todos os dias
+💚 Transformando café em código desde 2026
 
 ---
 
-# 🧠 stack principal
-
-☕ **java** → lógica, POO, estruturas de dados e backend
-
-🐍 **python** → automação e fundamentos
-
-🗄️ **sql** → banco de dados, consultas e manipulação de dados
-
-🌐 **html • css • javascript** → base do desenvolvimento web
+# 🧠 Stack Principal
 
 ---
 
-# 🧰 ferramentas
+# 📊 Estatísticas
 
-🛠️ vscode
-🛠️ git & github
-🛠️ mysql
-🛠️ terminal
-
----
-
-# 📊 estatísticas
-
-📈 evolução diária consistente
-
-📚 aprendendo com projetos e prática
-
-🎯 objetivo: me tornar desenvolvedor back-end profissional
+<div>
+  <a href="https://github.com/allan-celestino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allan-celestino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-celestino&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
-# 🐍 contributions
+# 🏆 Rank
+
+---
+
+# 🐍 Contributions
+
+---
+
+# 🌐 Contato
+
+---
+
+# ⚡ Status
 
 ```bash
-building consistency... ███████████░░░░
+Loading knowledge ███████████░░░░ 75%
+Learning Java     █████████████░░ 85%
+Learning Backend  ██████████░░░░░ 65%
 ```
 
 ---
 
-# 🌐 contato
-
-📧 email: [allan.40a@gmail.com](mailto:allan.40a@gmail.com)
-
-💼 linkedin: [www.linkedin.com/in/allan-celestino-958458298](http://www.linkedin.com/in/allan-celestino-958458298)
+# 🧬 System.out.println("Hello, World");
 
 ---
 
