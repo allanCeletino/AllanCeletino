@@ -7,6 +7,15 @@ Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Pyt
 🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
 
 ---
+# 📊 Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&layout=compact&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCelestino&theme=chartreuse-dark"/>
+
+---
 
 ## 🚀 Tecnologias que uso e estudo
 
