@@ -7,6 +7,7 @@ Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Pyt
 🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
 
 ---
+## Blog
 <a href="https://www.linkedin.com/in/allan-celestino-958458298/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
