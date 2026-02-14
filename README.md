@@ -15,6 +15,39 @@ Sou movido por curiosidade e evolução contínua. Gosto de entender como os sis
 
 🎯 **Objetivo profissional:**
 Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robustos e escaláveis, e no futuro me especializar também na área de **Dados 📊**, unindo desenvolvimento com análise e inteligência de dados
+---
+## 🧠 Tecnologias & Ferramentas
+
+<p align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+
+</p>
+
+---
+
+```bash
+Main Stack:     Java | SQL
+Learning:       Python | Backend | Data
+Tools:          Git | GitHub | VS Code
+Front-End Base: HTML | CSS | JavaScript
+```
 
 ---
 ## Blog
