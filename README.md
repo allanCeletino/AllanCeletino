@@ -59,16 +59,6 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCelestino&theme=chartreuse-dark"
-/>
-
-</p>
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
@@ -76,18 +66,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCelestino&theme
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
 </picture>
 ---
-## 🏆 Conquistas
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=AllanCelestino&theme=matrix&no-frame=true&no-bg=true"
-/>
-
-</p>
-
----
-![Snake animation](https://github.com/Allanceletino/Allanceletino/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
