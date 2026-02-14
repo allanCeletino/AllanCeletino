@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Opa, eu sou o Allan Celestino
 
-<!--
-**allanCeletino/AllanCeletino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante**
 
-Here are some ideas to get you started:
+Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Python 🐍** e desenvolvimento **Back-End**. Atualmente sou **Estagiário na PwC**, enquanto desenvolvo minhas habilidades através de estudos, projetos e muita prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
+
+---
+
+## 🚀 Tecnologias que uso e estudo
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Allan-Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Allan-Python" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Allan-JS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="Allan-HTML" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Allan-CSS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Allan-SQL" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Allan-Git" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* ☕ Java (principal foco)
+* 🧠 Programação Orientada a Objetos (POO)
+* 🗄️ SQL e Banco de Dados
+* 🔗 Back-End
+* 🐍 Python
+* 🌐 JavaScript
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## ⚡ Sobre mim
+
+* 💼 Estagiário em multinacional
+* 🎓 Estudante de tecnologia
+* 🚀 Focado em evoluir todos os dias
+* 🧠 Construindo minha base em Back-End
+* 📈 Futuro Engenheiro de Software
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ **Este perfil representa minha evolução como desenvolvedor.**
