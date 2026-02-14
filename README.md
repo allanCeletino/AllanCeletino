@@ -1,6 +1,6 @@
 # 👋  Opa, eu sou o Allan Celestino
 
-## 💻 Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante
+## 💻 Estudante de Tecnologia | Desenvolvedor Back-End | Em evolução constante
 
 Tenho 19 anos e estou construindo minha carreira na área de tecnologia, com foco principal em **Java ☕**, **Python 🐍** e **desenvolvimento Back-End**. Atualmente atuo como **Estagiário na PwC**, onde tenho contato com o ambiente corporativo, responsabilidade profissional e resolução de problemas reais.
 
@@ -11,18 +11,10 @@ Sou movido por curiosidade e evolução contínua. Gosto de entender como os sis
 * Programação orientada a objetos (POO)
 * Desenvolvimento Back-End com Java
 * Banco de Dados e SQL
-* Lógica de programação e estrutura de dados
 * Versionamento com Git e GitHub
 
 🎯 **Objetivo profissional:**
-Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robustos e escaláveis, e no futuro me especializar também na área de **Dados 📊**, unindo desenvolvimento com análise e inteligência de dados.
-
-⚡ **Mentalidade:**
-
-> Evolução diária, consistência e foco no longo prazo. Cada linha de código é um passo mais próximo do próximo nível.
-
-📚 Atualmente transformando conhecimento em projetos e projetos em experiência real.
-
+Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robustos e escaláveis, e no futuro me especializar também na área de **Dados 📊**, unindo desenvolvimento com análise e inteligência de dados
 
 ---
 ## Blog
