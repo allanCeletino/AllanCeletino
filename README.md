@@ -1,68 +1,37 @@
 ---
 
-# 👨‍💻 Allan Celestino
+# 📊 Linguagens mais usadas
 
-```bash
-> Status: Em evolução
-> Class: Back-End Developer
-> Focus: Java | Dados | Sistemas
-```
-
-💚 Transformando café em código desde 2026
-
----
-
-# 🧠 Stack Principal
-
----
-
-# 📊 Estatísticas
-
-<div>
-  <a href="https://github.com/allan-celestino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allan-celestino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-celestino&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div style="width: 200px;">
+<a href="https://github.com/AllanCelestino/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&langs_count=8&theme=chartreuse-dark" />
+</a>
 </div>
 
 ---
 
-# 🏆 Rank
+# 🎓 Formação em andamento
+
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](COLOQUE_LINK_DO_CURSO)
+
+---
+
+# 🏆 Bootcamps Concluídos
+
+[<img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">](COLOQUE_LINK_CERTIFICADO)
+
+---
+
+# 💻 CodeCamps Concluídos
+
+[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](COLOQUE_LINK_CERTIFICADO)
+
+[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](COLOQUE_LINK_CERTIFICADO)
 
 ---
 
 # 🐍 Contributions
 
----
-
-# 🌐 Contato
-
----
-
-# ⚡ Status
-
-```bash
-Loading knowledge ███████████░░░░ 75%
-Learning Java     █████████████░░ 85%
-Learning Backend  ██████████░░░░░ 65%
-```
-
----
-
-# 🧬 System.out.println("Hello, World");
-
----
-
-# ⚡ status
-
-```bash
-learning java        █████████████░░ 85%
-learning backend     ██████████░░░░░ 65%
-learning sql         █████████░░░░░░ 55%
-```
-
----
-
-# 🧬 system.out.println("hello, world");
+![Snake animation](https://github.com/AllanCelestino/AllanCelestino/blob/output/github-contribution-grid-snake.svg)
 
 ---
