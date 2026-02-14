@@ -55,7 +55,9 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ---
 ## 📊 Estatísticas
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AllanCeletino&theme=chartreuse-dark&hide_border=true&border_radius=10" />
+</p>
 
 
 ---
