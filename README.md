@@ -69,13 +69,6 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 
 
 ---
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://github.com/Allanceletino/Allanceletino/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 ## 🌐 Contato
@@ -103,7 +96,7 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ```bash
 System.out.println("Initializing Allan.exe");
 
-Loading knowledge...      ███████████████░   85%
+Loading knowledge...      ███████████████  85%
 Building Back-End...     ███████████░░░░░   70%
 Learning Spring Boot...  ███████░░░░░░░░░   40%
 Becoming Professional... ██████████░░░░░░   65%
