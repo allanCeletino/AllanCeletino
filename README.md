@@ -55,17 +55,7 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ---
 ## 📊 Estatísticas
 
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCeletino&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCeletino&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AllanCeletino&theme=chartreuse-dark&hide_border=true"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allanCeletino&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ---
 
