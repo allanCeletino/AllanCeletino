@@ -1,6 +1,6 @@
-👋 **Opa, eu sou o Allan Celestino**
+👋 ## **Opa, eu sou o Allan Celestino**
 
-💻 **Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante**
+💻 # **Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante**
 
 Tenho 19 anos e estou construindo minha carreira na área de tecnologia, com foco principal em **Java ☕**, **Python 🐍** e **desenvolvimento Back-End**. Atualmente atuo como **Estagiário na PwC**, onde tenho contato com o ambiente corporativo, responsabilidade profissional e resolução de problemas reais.
 
