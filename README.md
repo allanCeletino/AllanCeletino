@@ -15,6 +15,8 @@ Sou movido por curiosidade e evolução contínua. Gosto de entender como os sis
 
 🎯 **Objetivo profissional:**
 Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robustos e escaláveis, e no futuro me especializar também na área de **Dados 📊**, unindo desenvolvimento com análise e inteligência de dados
+
+
 ---
 ## 🧠 Tecnologias & Ferramentas
 
@@ -37,13 +39,18 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 </p>
 
 ---
-
 ```bash
-Main Stack:     Java | SQL
-Learning:       Python | Backend | Data
-Tools:          Git | GitHub | VS Code
-Front-End Base: HTML | CSS | JavaScript
+💻 Linguagens:        Java | Python | SQL
+
+⚙️ Back-End:         Programação Orientada a Objetos | Lógica | APIs REST (em aprendizado)
+
+🗄️ Banco de Dados:   MySQL | Modelagem de Dados | Consultas SQL
+
+🛠️ Ferramentas:      Git | GitHub | VS Code
+
+📚 Atualmente estudando: Back-End com Java | Estrutura de Dados | Desenvolvimento de Sistemas
 ```
+
 
 ---
 ## Blog
