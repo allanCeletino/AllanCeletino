@@ -55,7 +55,7 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ---
 ## 📊 Estatísticas
 
-# 📊 Estatísticas
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCeletino&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
@@ -90,6 +90,9 @@ src="https://github-profile-trophy.vercel.app/?username=AllanCelestino&theme=mat
 />
 
 </p>
+
+---
+![Snake animation](https://github.com/Allanceletino/Allanceletino/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
