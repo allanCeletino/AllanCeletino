@@ -95,3 +95,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelesti
 ---
 
 ⭐ **Este perfil representa minha evolução como desenvolvedor.**
+
