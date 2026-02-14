@@ -55,7 +55,8 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ---
 ## 📊 Estatísticas
 
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanCeletino&show_icons=true&theme=radical)
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
+
 
 ---
 
