@@ -1,37 +1,97 @@
+# 👋 Opa, eu sou o Allan Celestino
+
+💻 **Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante**
+
+Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Python 🐍** e desenvolvimento **Back-End**. Atualmente sou **Estagiário na PwC**, enquanto desenvolvo minhas habilidades através de estudos, projetos e muita prática.
+
+🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
+
 ---
 
-# 📊 Linguagens mais usadas
+## 🚀 Tecnologias que uso e estudo
 
-<div style="width: 200px;">
-<a href="https://github.com/AllanCelestino/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&langs_count=8&theme=chartreuse-dark" />
-</a>
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Allan-Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Allan-Python" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Allan-JS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="Allan-HTML" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Allan-CSS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Allan-SQL" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Allan-Git" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 </div>
 
 ---
 
-# 🎓 Formação em andamento
+## 📚 Atualmente estudando
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](COLOQUE_LINK_DO_CURSO)
-
----
-
-# 🏆 Bootcamps Concluídos
-
-[<img src="https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="70">](COLOQUE_LINK_CERTIFICADO)
-
----
-
-# 💻 CodeCamps Concluídos
-
-[<img src="https://hermes.dio.me/tracks/e3092c08-98c4-4131-aec1-f3affe6db45d.png" width="70">](COLOQUE_LINK_CERTIFICADO)
-
-[<img src="https://hermes.dio.me/tracks/cc708075-49ef-4974-85ca-c9a33a19e32d.png" width="60">](COLOQUE_LINK_CERTIFICADO)
+* ☕ Java (principal foco)
+* 🧠 Programação Orientada a Objetos (POO)
+* 🗄️ SQL e Banco de Dados
+* 🔗 Back-End
+* 🐍 Python
+* 🌐 JavaScript
 
 ---
 
-# 🐍 Contributions
+## 📊 Estatísticas do GitHub
 
-![Snake animation](https://github.com/AllanCelestino/AllanCelestino/blob/output/github-contribution-grid-snake.svg)
+<div>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
+
+## 🌐 Onde me encontrar
+
+<div>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## ⚡ Sobre mim
+
+* 💼 Estagiário em multinacional
+* 🎓 Estudante de tecnologia
+* 🚀 Focado em evoluir todos os dias
+* 🧠 Construindo minha base em Back-End
+* 📈 Futuro Engenheiro de Software
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ **Este perfil representa minha evolução como desenvolvedor.**
