@@ -66,3 +66,46 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
 </picture>
 ---
+
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://github.com/Allanceletino/Allanceletino/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/allan-celestino-958458298/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:allan.40a@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<a href="https://github.com/Allanceletino">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Status
+
+```bash
+System.out.println("Initializing Allan.exe");
+
+Loading knowledge...      ███████████████░   85%
+Building Back-End...     ███████████░░░░░   70%
+Learning Spring Boot...  ███████░░░░░░░░░   40%
+Becoming Professional... ██████████░░░░░░   65%
+
+Status: ONLINE 🟢
