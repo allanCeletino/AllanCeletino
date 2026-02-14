@@ -1,97 +1,78 @@
-# 👋 Opa, eu sou o Allan Celestino
+---
 
-💻 **Estudante de Tecnologia | Futuro Desenvolvedor Back-End | Em evolução constante**
+# 👨‍💻 Allan Celestino
 
-Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Python 🐍** e desenvolvimento **Back-End**. Atualmente sou **Estagiário na PwC**, enquanto desenvolvo minhas habilidades através de estudos, projetos e muita prática.
+```bash
+> status: online 🟢
+> class: backend developer in progress ☕
+> focus: java • poo • dados • sistemas
+```
 
-🎯 **Objetivo:** me tornar um Desenvolvedor Back-End profissional e futuramente atuar com **Dados 📊**
+🚀 em evolução constante, construindo minha base no desenvolvimento back-end
+
+💡 focado em lógica, programação orientada a objetos e construção de sistemas reais
+
+☕ transformando café em código todos os dias
 
 ---
 
-## 🚀 Tecnologias que uso e estudo
+# 🧠 stack principal
 
-<div style="display: inline_block"><br>
+☕ **java** → lógica, POO, estruturas de dados e backend
 
-<img align="center" alt="Allan-Java" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+🐍 **python** → automação e fundamentos
 
-<img align="center" alt="Allan-Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+🗄️ **sql** → banco de dados, consultas e manipulação de dados
 
-<img align="center" alt="Allan-JS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Allan-HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="Allan-CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Allan-SQL" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Allan-Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-</div>
+🌐 **html • css • javascript** → base do desenvolvimento web
 
 ---
 
-## 📚 Atualmente estudando
+# 🧰 ferramentas
 
-* ☕ Java (principal foco)
-* 🧠 Programação Orientada a Objetos (POO)
-* 🗄️ SQL e Banco de Dados
-* 🔗 Back-End
-* 🐍 Python
-* 🌐 JavaScript
+🛠️ vscode
+🛠️ git & github
+🛠️ mysql
+🛠️ terminal
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 estatísticas
 
-<div>
+📈 evolução diária consistente
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=tokyonight"/>
+📚 aprendendo com projetos e prática
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCelestino&layout=compact&theme=tokyonight"/>
-
-</div>
+🎯 objetivo: me tornar desenvolvedor back-end profissional
 
 ---
 
-## 🌐 Onde me encontrar
+# 🐍 contributions
 
-<div>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+```bash
+building consistency... ███████████░░░░
+```
 
 ---
 
-## ⚡ Sobre mim
+# 🌐 contato
 
-* 💼 Estagiário em multinacional
-* 🎓 Estudante de tecnologia
-* 🚀 Focado em evoluir todos os dias
-* 🧠 Construindo minha base em Back-End
-* 📈 Futuro Engenheiro de Software
+📧 email: [allan.40a@gmail.com](mailto:allan.40a@gmail.com)
+
+💼 linkedin: [www.linkedin.com/in/allan-celestino-958458298](http://www.linkedin.com/in/allan-celestino-958458298)
 
 ---
 
-## 🐍 Contribuições
+# ⚡ status
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+```bash
+learning java        █████████████░░ 85%
+learning backend     ██████████░░░░░ 65%
+learning sql         █████████░░░░░░ 55%
+```
 
 ---
 
-⭐ **Este perfil representa minha evolução como desenvolvedor.**
+# 🧬 system.out.println("hello, world");
+
+---
