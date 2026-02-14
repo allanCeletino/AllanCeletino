@@ -9,7 +9,8 @@ Tenho 19 anos e estou construindo minha carreira com foco em **Java ☕**, **Pyt
 ---
 # 📊 Estatísticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCelestino&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AllanCelestino&show_icons=true&theme=chartreuse-dark"/>
+
 https://github-readme-stats.vercel.app/api?username=AllanCelestino&theme=chartreuse-dark
 
 ---
