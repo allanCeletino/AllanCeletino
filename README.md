@@ -55,7 +55,7 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 ---
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanCeletino&show_icons=true&theme=radical)
 
 ---
 
