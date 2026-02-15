@@ -56,7 +56,6 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=allanCeletino&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a> --- --- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg"> </picture>
 ---
----
 
 ## 🌐 Contato
 
