@@ -54,7 +54,7 @@ Me tornar um **Desenvolvedor Back-End profissional**, construir sistemas robusto
 
 ## 📊 Estatísticas
 
-<a href="https://git.io/streak-stats">
+<a [href="https://git.io/streak-stats"](https://github.com/Allanceletino)>
   <img src="https://streak-stats.demolab.com?user=AllanCeletino&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
 </a>
 
